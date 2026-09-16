@@ -6,9 +6,11 @@
   />
 </p>
 
-# D.i.D — Dead Internet Detector
+<h1 align="center">D.i.D — Dead Internet Detector</h1>
 
-Engagement authenticity intelligence.
+<p align="center">
+  Engagement authenticity intelligence.
+</p>
 
 D.i.D analyzes online engagement for patterns associated with synthetic, coordinated, or abnormal activity.
 
