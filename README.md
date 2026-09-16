@@ -6,7 +6,11 @@
   />
 </p>
 
-<h1 align="center">D.i.D — Dead Internet Detector</h1>
+<h1 align="center">D.i.D</h1>
+
+<p align="center">
+  Dead Internet Detector
+</p>
 
 <p align="center">
   Engagement authenticity intelligence.
