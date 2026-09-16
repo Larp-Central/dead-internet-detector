@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="1000009329" src="https://github.com/user-attachments/assets/6bc02cf4-7828-40a5-8394-76209eba7773" />
 <p align="center">
   <img src="./assets/did-logo.png" alt="D.i.D logo" width="360">
 </p>
