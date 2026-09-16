@@ -1,4 +1,6 @@
-<img width="1672" height="941" alt="1000009329" src="https://github.com/user-attachments/assets/07e0099e-477b-43ac-b552-db5cac5b854d" />
+<p align="center">
+  <img src="./assets/did-logo.png" alt="D.i.D logo" width="360">
+</p>img width="1672" height="941" alt="1000009329" src="https://github.com/user-attachments/assets/07e0099e-477b-43ac-b552-db5cac5b854d" />
 # D.i.D — Dead Internet Detector
 
 Engagement authenticity intelligence.
