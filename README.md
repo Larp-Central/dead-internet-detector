@@ -22,7 +22,7 @@
 
 > **Having doubts? Ask D.i.D. 🧪**
 
-D.i.D analyzes public YouTube comment activity for patterns associated with suspicious, synthetic, repetitive, or coordinated engagement.
+Hello!!! Folks, I wanna introduce myself. My name is Orion. I'm a short-time coder🖥⌨️ just starting to get the hang of things, so in response to that, I wanna show what I've been working on as of late. Hope you enjoy it💪💪. introducing!!! "D.i.D". D.i.D analyzes public YouTube comment activity for patterns associated with suspicious, synthetic, repetitive, or coordinated engagement.
 
 It is an **evidence-first triage tool**, not a bot verdict engine. D.i.D shows the measurements behind each result, explains confidence and sample coverage, and includes ordinary explanations that may also fit the observed pattern.
 
@@ -38,7 +38,7 @@ Current scans evaluate five signal families:
 | **Language Diversity** | Lexical variety in usable comment text |
 | **Link Presence** | Share of sampled comments containing HTTP(S) links |
 
-D.i.D currently Pulls up to **500 public top-level comments** from a YouTube video URL.
+D.i.D currently pulls up to **500 public top-level comments** from a YouTube video URL.
 
 A report includes:
 
@@ -114,7 +114,7 @@ This is a conservative scoring rule, **not a calibrated probability model**.
 
 ## Language evidence
 
-If text normalization leaves no usable lexical tokens — for example an emoji-only sample — Language Diversity becomes unavailable instead of suspicious:
+If text normalization leaves no usable lexical tokens — for example, an emoji-only sample — Language Diversity becomes unavailable instead of suspicious:
 
 ```text
 availability: insufficient-evidence
