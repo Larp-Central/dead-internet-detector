@@ -16,6 +16,7 @@
   <a href="https://x.com/Orionstraped"><img src="https://img.shields.io/badge/X-%40Orionstraped-000000?logo=x&logoColor=white" alt="X @Orionstraped" /></a>
   <img src="https://img.shields.io/badge/Discord-larpHQ-5865F2?logo=discord&logoColor=white" alt="Discord larpHQ" />
   <a href="https://ko-fi.com/deadinternetlab"><img src="https://img.shields.io/badge/Ko--fi-Support%20D.i.D-FF5E5B?logo=ko-fi&logoColor=white" alt="Support D.i.D on Ko-fi" /></a>
+  <img src="https://img.shields.io/badge/language-TypeScript-3178C6?logo=typescript&logoColor=white" alt="Language TypeScript" />
   <img src="https://img.shields.io/badge/status-active%20development-55ef88" alt="Active development" />
 </p>
 
