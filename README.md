@@ -38,7 +38,7 @@ Current scans evaluate five signal families:
 | **Language Diversity** | Lexical variety in usable comment text |
 | **Link Presence** | Share of sampled comments containing HTTP(S) links |
 
-D.i.D currently reads up to **500 public top-level comments** from a YouTube video.
+D.i.D currently Pulls up to **500 public top-level comments** from a YouTube video URL.
 
 A report includes:
 
@@ -128,7 +128,7 @@ The current lexical metric still uses type-token ratio (TTR), which is known to 
 
 ## Analysis confidence
 
-Confidence is **not** a probability that D.i.D is correct and is **not** an estimate of bot percentage.
+Confidence is **not** a probability that D.I.D. is correct and is **not** an estimate of bot percentage.
 
 It currently reflects:
 
